@@ -1,5 +1,7 @@
 # Title
 
+Fetch Exercise
+
 ## Description
 
 This is a simple application to practice fetching data, in this case, on Nobel laureates. I've changed the input functionality to work as a search that filters the results down by checking if the search term is contained in each result.
